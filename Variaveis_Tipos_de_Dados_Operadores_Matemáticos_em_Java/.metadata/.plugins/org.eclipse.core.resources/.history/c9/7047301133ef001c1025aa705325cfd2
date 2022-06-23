@@ -1,0 +1,17 @@
+package maula01;
+
+public class TiposDados {
+
+	public static void main(String[] args) {
+		// Tipos de Variaveis primitivas Java
+		
+		byte b1 = 10;
+		byte b2 = 20;
+		
+		
+
+		System.out.println("teste");
+		
+	}
+
+}

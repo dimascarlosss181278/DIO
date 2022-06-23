@@ -1,0 +1,16 @@
+/**
+ *  Curso Digital Innovation One
+ */
+package com.dio;
+
+/**
+ * @author Dimas
+ *
+ */
+public class PrimeiroProjeto {
+
+	public static void main(String[] args) {
+      System.out.println("DIO - Aprendizado Java");
+	}
+
+}

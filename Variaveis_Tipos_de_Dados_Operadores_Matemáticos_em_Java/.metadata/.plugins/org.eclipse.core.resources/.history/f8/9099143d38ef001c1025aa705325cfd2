@@ -1,0 +1,22 @@
+package maula03;
+
+/* exercicio operadores aritmeticos do curso Variaveis Tipos e Operadores Matema
+em java
+*/
+public class Exercicio {
+
+	public static void main(String[] args) {
+	   
+      System.out.println("PrePos");		
+	  prePos();	
+	  System.out.println("PrePos");		
+	  aritmetico();	
+	  System.out.println("PrePos");		
+	  atribuicao();	
+	  System.out.println("PrePos");		
+	  PrePos();	
+	  System.out.println("PrePos");		
+	  PrePos();	
+	}
+
+}

@@ -1,0 +1,29 @@
+/**
+ *  Curso Digital Innovation One
+ */
+package com.dio;
+
+import com.dio.model.Gato;
+
+/**
+ * @author Dimas
+ *
+ */
+public class PrimeiroProjeto {
+
+	Gato gato = new Gato();
+	livros = new Livros();
+	
+	public static void main(String[] args) {
+	  int A = 2;
+	  int B = 3;
+	  
+      System.out.println("DIO - Aprendizado Java");
+      System.out.println("Resultado do produto entre as variaveis A e B é: " + (A*B) );
+	}
+}
+
+class Livros {
+	private String nome;
+	private String npag;
+}

@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package com.dio;
+
+/**
+ * @author Dimas
+ *
+ */
+public class PrimeiroProjeto {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

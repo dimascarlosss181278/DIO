@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\workspace\DIO\Variaveis_Tipos_de_Dados_Operadores_Matemáticos_em_Java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1984560318.index
+2750348152.index

@@ -1,0 +1,25 @@
+package maula01;
+
+public class TiposDados {
+
+	public static void main(String[] args) {
+		// Tipos de Variaveis primitivas Java
+		
+		byte b1 = 10;
+		byte b2 = 20;
+		
+		short s1 = 20000;
+		//short s2 = 40000;  - incompativel
+		
+		long l1 = 1000000000000000000L;
+		long l2 = 2004005005000550000L;
+		
+		//float d1 = 4.5; - incompativel sem o f para idenficar tipo float
+		float d2 = 4.5f;
+		
+ 
+		System.out.println("teste");
+		
+	}
+
+}
